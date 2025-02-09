@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">Earned value: compare planned work, accepted work, and cost</title><desc id="desc">PV 100, EV 80, AC 90. CPI equals 0.89; SPI equals 0.80. Schedule variance is work value, not days.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Earned value: compare planned work, accepted work, and cost</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Illustrative snapshot. All amounts are thousands of the same currency.</text>
+<polyline points="170,415.0 1070,415.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="156" y="404.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">0</text>
+<polyline points="170,355.0 1070,355.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="156" y="344.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">30</text>
+<polyline points="170,295.0 1070,295.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="156" y="284.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">60</text>
+<polyline points="170,235.0 1070,235.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="156" y="224.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">90</text>
+<polyline points="170,175.0 1070,175.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="156" y="164.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">120</text>
+<polyline points="170,175 170,415 1070,415" fill="none" stroke="#526579" stroke-width="2"/>
+<rect x="285" y="215" width="150" height="200" rx="5" fill="#2563eb"/>
+<text x="360" y="182" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#2563eb" text-anchor="middle" dominant-baseline="text-before-edge">100</text>
+<text x="360" y="426" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="middle" dominant-baseline="text-before-edge">PV: planned</text>
+<rect x="570" y="255" width="150" height="160" rx="5" fill="#0f766e"/>
+<text x="645" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#0f766e" text-anchor="middle" dominant-baseline="text-before-edge">80</text>
+<text x="645" y="426" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="middle" dominant-baseline="text-before-edge">EV: earned</text>
+<rect x="855" y="235" width="150" height="180" rx="5" fill="#a65b00"/>
+<text x="930" y="202" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#a65b00" text-anchor="middle" dominant-baseline="text-before-edge">90</text>
+<text x="930" y="426" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="middle" dominant-baseline="text-before-edge">AC: actual</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">CPI = 80 / 90 = 0.89. SPI = 80 / 100 = 0.80. EV is budgeted work value, not revenue or calendar time.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

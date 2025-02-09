@@ -9,3 +9,7 @@ An answer should contain a direct explanation, practical reasoning or an illustr
 For domain and version-sensitive claims, verify the primary source, record the review date, and specify jurisdiction, organizational role, and relevant version. Avoid universal compliance claims and invented legal deadlines.
 
 When changing the catalog, update counts in both indexes, keep topic anchors aligned with README headings, and check all relative links and images. Do not present illustrative project results as actual experience or certification requirements.
+
+Run `python scripts/check_docs.py` for catalog, local link, image, and SVG checks. This validates repository structure, not the truth or currency of external sources. Record manual source review and any access limitations in the review notes.
+
+Use ordinary local images for explanatory figures so they render independently of Mermaid support. Keep SVG titles, descriptions, text alternatives, explicit units, and illustrative-data labels. Regenerate the original figures with `python scripts/generate_visuals.py`; add `--preview-dir <directory>` for PNG visual review. Review both the numeric assumptions and the rendered result after a change.

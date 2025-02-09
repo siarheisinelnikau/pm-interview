@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">Clinical evaluation asks three different evidence questions</title><desc id="desc">Clinical evaluation asks three different evidence questions. Workflow safety also depends on identity, handoffs, people, downtime, and response. UAT alone does not establish all clinical evidence.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Clinical evaluation asks three different evidence questions</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">IMDRF SaMD framework; apply according to intended use, risk, and jurisdiction.</text>
+<rect x="64.0" y="175" width="340.0" height="255" rx="12" fill="#eaf1ff"/>
+<text x="82.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Association</text>
+<text x="82.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Is the output clinically and</text>
+<text x="82.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">scientifically related to the</text>
+<text x="82.0" y="298" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">condition?</text>
+<rect x="430.0" y="175" width="340.0" height="255" rx="12" fill="#e5f5f1"/>
+<text x="448.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Technical validation</text>
+<text x="448.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Does the software correctly</text>
+<text x="448.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">generate the intended output?</text>
+<rect x="796.0" y="175" width="340.0" height="255" rx="12" fill="#fff2dc"/>
+<text x="814.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Clinical validation</text>
+<text x="814.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Does the output achieve the</text>
+<text x="814.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">intended purpose in the target</text>
+<text x="814.0" y="298" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">use?</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Workflow safety also depends on identity, handoffs, people, downtime, and response. UAT alone does not</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">establish all clinical evidence.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">Critical path: improve the path that drives the finish</title><desc id="desc">Integration 0–5, verification 5–8, approval 8–10 form a ten-day critical path. UI 0–6 has four days of float.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Critical path: improve the path that drives the finish</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Simplified schedule: parallel start, no shared-resource constraint.</text>
+<polyline points="330,172 330,425" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="330" y="435" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">0</text>
+<polyline points="484,172 484,425" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="484" y="435" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">2</text>
+<polyline points="638,172 638,425" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="638" y="435" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">4</text>
+<polyline points="792,172 792,425" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="792" y="435" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">6</text>
+<polyline points="946,172 946,425" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="946" y="435" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">8</text>
+<polyline points="1100,172 1100,425" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="1100" y="435" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">10</text>
+<text x="78" y="194" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Integration</text>
+<rect x="330" y="185" width="385" height="40" rx="5" fill="#b42318"/>
+<text x="522.5" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="text-before-edge">5 days</text>
+<text x="78" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Verification</text>
+<rect x="715" y="243" width="231" height="40" rx="5" fill="#b42318"/>
+<text x="830.5" y="251" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="text-before-edge">3 days</text>
+<text x="78" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Approval</text>
+<rect x="946" y="301" width="154" height="40" rx="5" fill="#b42318"/>
+<text x="1023.0" y="309" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="text-before-edge">2 days</text>
+<text x="78" y="368" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">UI work</text>
+<rect x="330" y="359" width="462" height="40" rx="5" fill="#2563eb"/>
+<text x="561.0" y="367" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="text-before-edge">6 days</text>
+<polyline points="792,379 1100,379" fill="none" stroke="#0f766e" stroke-width="4" stroke-dasharray="7 7"/>
+<text x="946" y="397" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#0f766e" text-anchor="middle" dominant-baseline="text-before-edge">4 days float</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Ten days drives launch. Shortening UI alone does not move it. Recalculate if resources or dependencies</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">change.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

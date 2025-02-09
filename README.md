@@ -6,9 +6,11 @@ A structured interview guide in the same format as [android-interview](https://g
 
 **100 questions and answers:** 70 core Project Management questions, 18 domain questions, and 12 concise questions on adjacent responsibilities. Select Healthcare, Fintech, and Cybersecurity sections according to the role; Product, Delivery, and Presales extend the core PM track.
 
-Each answer includes practical reasoning and primary-source references. Examples are illustrative; role boundaries and governance should be agreed for the organization. The reference baseline was checked on **2026-10-30**; see [source and applicability notes](docs/source-notes.md) for standards, jurisdictions, and version-sensitive topics.
+All **100 answers were reviewed and expanded on 2026-10-30**. They include explanations, worked examples or decision scenarios, limitations, and primary-source references. The 18 domain answers discuss applicability, evidence, operational consequences, and accountable owners in more depth. See the [review and source audit](docs/source-audit.md) for changes and access limitations, and [source notes](docs/source-notes.md) for version and jurisdiction boundaries.
 
-Start with the [interview guide](docs/interview-guide.md), [answer index](answers/README.md), [glossary](docs/glossary.md), or [working templates](templates/README.md). Three answers include diagrams that render directly on GitHub.
+**32 original SVG illustrations**, including seven worked charts, are embedded as ordinary images in the answers and collected in the [visual guide](docs/visual-guide.md). Every chart identifies its illustrative data and assumptions. Start with the [interview guide](docs/interview-guide.md), [answer index](answers/README.md), [glossary](docs/glossary.md), or [working templates](templates/README.md).
+
+![Project delivery connects user outcomes, planning and flow, validation and release, and operational learning.](assets/diagrams/delivery-system.svg)
 
 ### Topics
 

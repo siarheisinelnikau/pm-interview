@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">Error budget: define the denominator before doing the math</title><desc id="desc">The budget is one thousand failed requests. Seven hundred failures consume seventy percent, leaving three hundred. This is not an outage-minute calculation.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Error budget: define the denominator before doing the math</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Request-based example: 1,000,000 eligible requests; success target 99.9%.</text>
+<text x="84" y="179" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Allowed failures: 1,000</text>
+<rect x="84" y="249" width="1000" height="84" rx="7" fill="#dceee8"/>
+<rect x="84" y="249" width="700" height="84" rx="7" fill="#b42318"/>
+<text x="434" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="text-before-edge">700 used</text>
+<text x="934" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#0f766e" text-anchor="middle" dominant-baseline="text-before-edge">300 left</text>
+<text x="84" y="369" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Budget = 1,000,000 x (1 - 0.999) = 1,000 failures</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">70% consumed. A request-based SLO cannot be converted directly into outage minutes; a time-based SLI</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">uses a different denominator.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

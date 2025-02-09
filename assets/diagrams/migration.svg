@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">Migration readiness includes a credible recovery path</title><desc id="desc">Migration readiness includes a credible recovery path. Reverting code is not enough if the new system has accepted writes. Assess data compatibility, RTO, RPO, and forward recovery.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Migration readiness includes a credible recovery path</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Rehearse the data transition and its decision checkpoints.</text>
+<rect x="64.0" y="175" width="248.5" height="255" rx="12" fill="#eaf1ff"/>
+<text x="82.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Prepare</text>
+<text x="82.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Map data, identities,</text>
+<text x="82.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">invariants, and owners</text>
+<polyline points="316.5,300 334.5,300" fill="none" stroke="#526579" stroke-width="3"/>
+<polygon points="334.5,300 323.6946347717679,305.21958640933474 323.6946347717679,294.78041359066526" fill="#526579"/>
+<rect x="338.5" y="175" width="248.5" height="255" rx="12" fill="#e5f5f1"/>
+<text x="356.5" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Rehearse</text>
+<text x="356.5" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Measure duration,</text>
+<text x="356.5" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">reconcile, test recovery</text>
+<polyline points="591.0,300 609.0,300" fill="none" stroke="#526579" stroke-width="3"/>
+<polygon points="609.0,300 598.1946347717678,305.21958640933474 598.1946347717678,294.78041359066526" fill="#526579"/>
+<rect x="613.0" y="175" width="248.5" height="255" rx="12" fill="#fff2dc"/>
+<text x="631.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Cut over</text>
+<text x="631.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Apply go/no-go and</text>
+<text x="631.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">the last safe abort</text>
+<text x="631.0" y="298" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">point</text>
+<polyline points="865.5,300 883.5,300" fill="none" stroke="#526579" stroke-width="3"/>
+<polygon points="883.5,300 872.6946347717678,305.21958640933474 872.6946347717678,294.78041359066526" fill="#526579"/>
+<rect x="887.5" y="175" width="248.5" height="255" rx="12" fill="#f1edff"/>
+<text x="905.5" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Verify</text>
+<text x="905.5" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Check live behavior</text>
+<text x="905.5" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">and reconcile</text>
+<text x="905.5" y="298" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">remaining exceptions</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Reverting code is not enough if the new system has accepted writes. Assess data compatibility, RTO, RPO,</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">and forward recovery.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

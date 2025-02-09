@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">DORA research measures delivery at a service boundary</title><desc id="desc">DORA research measures delivery at a service boundary. Five metrics in the checked guide. Pair them with user outcomes and service reliability. This research is distinct from EU DORA regulation.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">DORA research measures delivery at a service boundary</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Define event classification and the observation window before comparing trends.</text>
+<rect x="64.0" y="175" width="523.0" height="255" rx="12" fill="#eaf1ff"/>
+<text x="82.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Throughput</text>
+<text x="82.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Change lead time; deployment frequency; failed</text>
+<text x="82.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">deployment recovery time</text>
+<rect x="613.0" y="175" width="523.0" height="255" rx="12" fill="#e5f5f1"/>
+<text x="631.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Instability</text>
+<text x="631.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Change fail rate; deployment rework rate</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Five metrics in the checked guide. Pair them with user outcomes and service reliability. This research is</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">distinct from EU DORA regulation.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

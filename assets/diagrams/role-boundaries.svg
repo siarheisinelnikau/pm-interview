@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">Role boundaries follow decisions, not titles</title><desc id="desc">Role boundaries follow decisions, not titles. One person may hold several responsibilities. Preserve clear authority for each decision, including Scrum accountabilities where applicable.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Role boundaries follow decisions, not titles</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Illustrative ownership to agree for the organization.</text>
+<rect x="64" y="160" width="524" height="144" rx="12" fill="#eaf1ff"/>
+<text x="82" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Product</text>
+<text x="82" y="223" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Problem, value, direction, and priority</text>
+<rect x="612" y="160" width="524" height="144" rx="12" fill="#e5f5f1"/>
+<text x="630" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Project</text>
+<text x="630" y="223" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Integrated constraints, dependencies, and decisions</text>
+<rect x="64" y="318" width="524" height="144" rx="12" fill="#fff2dc"/>
+<text x="82" y="336" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Engineering</text>
+<text x="82" y="381" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Technical approach, implementation, and evidence</text>
+<rect x="612" y="318" width="524" height="144" rx="12" fill="#f1edff"/>
+<text x="630" y="336" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Operations and risk</text>
+<text x="630" y="381" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Service readiness and authorized exposure decisions</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">One person may hold several responsibilities. Preserve clear authority for each decision, including Scrum</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">accountabilities where applicable.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">A forecast is a distribution, conditional on assumptions</title><desc id="desc">Illustrative completion distribution: median 5 weeks, 85th percentile 6 weeks. This is a model, not a commitment.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">A forecast is a distribution, conditional on assumptions</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">20 items; 20,000 seeded simulations sampling illustrative weekly completions.</text>
+<polyline points="120,413.0 1090,413.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="106" y="402.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">0</text>
+<polyline points="120,336.3333333333333 1090,336.3333333333333" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="106" y="325.3333333333333" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">20</text>
+<polyline points="120,259.66666666666663 1090,259.66666666666663" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="106" y="248.66666666666663" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">40</text>
+<polyline points="120,183.0 1090,183.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="106" y="172.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">60</text>
+<polyline points="120,183 120,413 1090,413" fill="none" stroke="#526579" stroke-width="2"/>
+<text x="122" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Share of simulated completions (%)</text>
+<rect x="136.0" y="411.9266666666667" width="106.57142857142858" height="1.0733333333333335" rx="4" fill="#2563eb"/>
+<text x="189.28571428571428" y="425" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">3 wk</text>
+<rect x="274.57142857142856" y="348.44666666666666" width="106.57142857142858" height="64.55333333333334" rx="4" fill="#2563eb"/>
+<text x="327.85714285714283" y="425" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">4 wk</text>
+<text x="327.85714285714283" y="320.44666666666666" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#16324f" text-anchor="middle" dominant-baseline="text-before-edge">16.8%</text>
+<rect x="413.14285714285717" y="229.0" width="106.57142857142858" height="184.0" rx="4" fill="#2563eb"/>
+<text x="466.42857142857144" y="425" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">5 wk</text>
+<text x="466.42857142857144" y="201.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#16324f" text-anchor="middle" dominant-baseline="text-before-edge">48.0%</text>
+<rect x="551.7142857142858" y="303.3283333333333" width="106.57142857142858" height="109.67166666666667" rx="4" fill="#2563eb"/>
+<text x="605.0000000000001" y="425" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">6 wk</text>
+<text x="605.0000000000001" y="275.3283333333333" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#16324f" text-anchor="middle" dominant-baseline="text-before-edge">28.6%</text>
+<rect x="690.2857142857143" y="390.5175" width="106.57142857142858" height="22.4825" rx="4" fill="#2563eb"/>
+<text x="743.5714285714287" y="425" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">7 wk</text>
+<text x="743.5714285714287" y="362.5175" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#16324f" text-anchor="middle" dominant-baseline="text-before-edge">5.9%</text>
+<rect x="828.8571428571429" y="411.48583333333335" width="106.57142857142858" height="1.5141666666666667" rx="4" fill="#2563eb"/>
+<text x="882.1428571428572" y="425" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">8 wk</text>
+<rect x="967.4285714285716" y="412.96166666666664" width="106.57142857142858" height="0.03833333333333333" rx="4" fill="#2563eb"/>
+<text x="1020.7142857142859" y="425" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">9 wk</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Model result: P50 = 5 weeks; P85 = 6 weeks. More trials cannot repair biased history or hidden</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">dependencies.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

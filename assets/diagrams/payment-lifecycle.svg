@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">A card payment has several distinct states</title><desc id="desc">A card payment has several distinct states. Refunds, reversals, disputes, and fees add separate events. Checkout success, authorization, settlement, and payout are not interchangeable.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">A card payment has several distinct states</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Simplified example; provider and rail contracts determine the actual transitions.</text>
+<rect x="64.0" y="175" width="248.5" height="255" rx="12" fill="#eaf1ff"/>
+<text x="82.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Authorize</text>
+<text x="82.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Approval or hold;</text>
+<text x="82.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">expiry matters</text>
+<polyline points="316.5,300 334.5,300" fill="none" stroke="#526579" stroke-width="3"/>
+<polygon points="334.5,300 323.6946347717679,305.21958640933474 323.6946347717679,294.78041359066526" fill="#526579"/>
+<rect x="338.5" y="175" width="248.5" height="255" rx="12" fill="#e5f5f1"/>
+<text x="356.5" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Capture</text>
+<text x="356.5" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Request collection;</text>
+<text x="356.5" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">partial and retry rules</text>
+<text x="356.5" y="298" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">matter</text>
+<polyline points="591.0,300 609.0,300" fill="none" stroke="#526579" stroke-width="3"/>
+<polygon points="609.0,300 598.1946347717678,305.21958640933474 598.1946347717678,294.78041359066526" fill="#526579"/>
+<rect x="613.0" y="175" width="248.5" height="255" rx="12" fill="#fff2dc"/>
+<text x="631.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Settle</text>
+<text x="631.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Processing and funds</text>
+<text x="631.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">movement across</text>
+<text x="631.0" y="298" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">participants</text>
+<polyline points="865.5,300 883.5,300" fill="none" stroke="#526579" stroke-width="3"/>
+<polygon points="883.5,300 872.6946347717678,305.21958640933474 872.6946347717678,294.78041359066526" fill="#526579"/>
+<rect x="887.5" y="175" width="248.5" height="255" rx="12" fill="#f1edff"/>
+<text x="905.5" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Payout</text>
+<text x="905.5" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Transfer available</text>
+<text x="905.5" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">balance to the</text>
+<text x="905.5" y="298" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">merchant bank</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Refunds, reversals, disputes, and fees add separate events. Checkout success, authorization, settlement,</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">and payout are not interchangeable.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

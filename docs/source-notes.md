@@ -1,45 +1,62 @@
 # Source and applicability notes
 
-[Back to questions](../README.md)
+[Back to questions](../README.md) · [Review and source audit](source-audit.md) · [Visual guide](visual-guide.md)
 
-**Reference baseline checked:** 2026-10-30.
+**Content and source review: 2026-10-30.** All 100 answers were reviewed against their concepts and supporting sources. The audit records improvements and cases where direct access required an official alternative.
 
-Answers combine established concepts with original, illustrative project scenarios. References support the underlying concepts; the examples and suggested actions are applications of those concepts, not quotations from a standard. No single source defines the correct operating model for every organization.
+Examples, numbers, decision tables, and figures are original illustrative applications, not quotations from a standard or industry benchmarks. A framework's requirements apply within its scope; a suggested project practice is not automatically a legal obligation.
 
-## Delivery frameworks and measurements
+## Project delivery and measurement
 
-| Area | Reference baseline | How to use it |
+| Area | Checked reference | Important boundary |
 | --- | --- | --- |
-| Project delivery | [PMI overview](https://www.pmi.org/about/what-is-project-management) and [UK GovS 002](https://www.gov.uk/government/publications/project-delivery-functional-standard) | General foundations and an example of structured governance; UK government requirements are not universal private-sector obligations |
-| Scrum | [Scrum Guide, November 2020](https://scrumguides.org/scrum-guide.html) | Distinguish defined accountabilities from local job titles; a Definition of Ready is not a required Scrum artifact |
-| Kanban | [Kanban Guide, May 2025](https://kanbanguides.org/the-kanban-guide/2025.5/) | Define workflow boundaries before interpreting flow measurements |
-| Software delivery research | [DORA metrics guide](https://dora.dev/guides/dora-metrics/) | The checked guide uses five metrics, including deployment rework rate and failed deployment recovery time; older material may use four |
-| Secure development | [NIST SP 800-218](https://csrc.nist.gov/pubs/sp/800/218/final) and [OWASP ASVS](https://asvs.owasp.org/) | Select and version relevant practices and requirements for the actual product |
-| Incident response | [NIST SP 800-61 Rev. 3](https://csrc.nist.gov/pubs/sp/800/61/r3/final) | The checked final publication is dated April 2025 and supersedes Rev. 2 |
-
-The source baseline is not a claim that a method guarantees an outcome or that these materials form a certification syllabus. Check the current source when a version or requirement matters to an interview or real project.
+| Governance and control | [GovS 002 v2.1, full text](https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/) | Answer references name relevant sections; UK-government requirements are not universal private-sector rules |
+| Scheduling | [GAO Schedule Assessment Guide](https://www.gao.gov/products/gao-16-89g) | Assess dependencies, resources, critical/near-critical paths, uncertainty, and actual progress |
+| Earned value | [NSF EVM Gold Card](https://www.nsf.gov/od/ori/evm-gold-card) | Work-value units differ from days; EAC formula assumptions matter |
+| Scrum | [November 2020 Scrum Guide](https://scrumguides.org/scrum-guide.html) | Separate defined accountabilities and commitments from local practices |
+| Kanban | [May 2025 Kanban Guide](https://kanbanguides.org/the-kanban-guide/2025.5/) | Define workflow boundaries, clocks, and policies before interpreting measures |
+| DORA research | [Five-metric guide](https://dora.dev/guides/dora-metrics/) | Throughput includes failed deployment recovery time; instability includes change fail rate and deployment rework rate |
+| Reliability | [Google SRE objectives](https://sre.google/sre-book/service-level-objectives/) | Request-based and time-based budgets have different denominators |
+| Behavioral interviews | [National Careers Service STAR method](https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method) | Use real experience; distinguish personal actions from collective results |
 
 ## Healthcare
 
-- [HIPAA scope](https://www.hhs.gov/hipaa/for-professionals/covered-entities/index.html) depends on covered-entity and business-associate status. A health-related app is not automatically within that scope.
-- [GDPR data guidance](https://europa.eu/youreurope/business/governance-and-sustainability/digital-and-data-compliance/data-protection-gdpr/index_en.htm) includes special-category data. Determine territorial scope, organizational role, processing basis, and relevant conditions with the privacy owner.
-- [FDA software guidance](https://www.fda.gov/medical-devices/digital-health-center-excellence/device-software-functions-including-mobile-medical-applications) provides a US example. Intended use, claims, function, and market affect assessment; it does not classify every healthcare product in every country.
-- The [versioned FHIR R4 overview](https://hl7.org/fhir/R4/overview.html) is an integration example, not a claim that every partner uses R4 or that R4 is the newest release. Agree the release, profiles, implementation guide, and security model with the partner.
+| Topic | Checked baseline | Delivery implication |
+| --- | --- | --- |
+| HIPAA scope | [HHS covered entities and business associates](https://www.hhs.gov/hipaa/for-professionals/covered-entities/index.html) | Establish organizational role; not every health app is in scope |
+| Security Rule update | [HHS NPRM page](https://www.hhs.gov/hipaa/for-professionals/security/hipaa-security-rule-nprm/index.html) | The checked page identifies a proposal; distinguish proposed text from enacted requirements |
+| Data handling | [GDPR guidance](https://europa.eu/youreurope/business/governance-and-sustainability/digital-and-data-compliance/data-protection-gdpr/index_en.htm), [HHS de-identification](https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html) | Establish permitted processing and safeguards; masking or pseudonymization does not automatically remove all duties |
+| Consumer health apps | [FTC Health Breach Notification Rule](https://www.ftc.gov/legal-library/browse/rules/health-breach-notification-rule) | Being outside HIPAA is not a universal exemption from health-data obligations |
+| FHIR | [Publication directory](https://hl7.org/fhir/directory.html) | R5 5.0.0 is the checked current published release; R6 work-in-progress is not a final supported partner contract |
+| US CDS boundary | [FDA final guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software) | January 29, 2026 supersedes January 6, 2026; assess all applicable criteria per function |
+| US quality system | [FDA QMSR](https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr) | Effective February 2, 2026 for applicable device-manufacturer requirements |
+| US device cybersecurity | [FDA February 2026 guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket) | Supersedes June 2025 guidance; assess actual applicability |
+| EU device software | [MDCG 2019-11 Rev. 1](https://health.ec.europa.eu/system/files/2025-06/mdcg_2019_11_en.pdf) | June 2025 guidance distinguishes MDR/IVDR qualification and classification; guidance is not itself binding law |
+| Clinical evaluation | [IMDRF N41FINAL:2017](https://www.imdrf.org/documents/software-medical-device-samd-clinical-evaluation) | Clinical association, technical validation, and clinical validation answer different evidence questions |
+| Deployed clinical safety | [NHS England DCB0129/DCB0160](https://digital.nhs.uk/services/clinical-safety/clinical-risk-management-standards) | Manufacture and deployment/use duties have a jurisdiction-specific scope; UAT alone is incomplete evidence |
 
 ## Fintech
 
-- [FATF recommendations](https://www.fatf-gafi.org/en/topics/fatf-recommendations.html) are an international baseline implemented through jurisdiction-specific arrangements. They are not a substitute for identifying local obligations.
-- [PCI DSS](https://www.pcisecuritystandards.org/standards/pci-dss/) scope and assessment depend on the actual environment and payment data flow. Confirm the applicable version and validation route with the PCI owner.
-- [EBA payment-services materials](https://www.eba.europa.eu/regulation-and-policy/payment-services-and-electronic-money) support the PSD2/SCA discussion. For a real launch, verify the current applicable framework, technical standards, exemptions, and any legislative transition.
-- [EU DORA](https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-act) concerns digital operational resilience and entities within its scope. It is distinct from DORA software delivery metrics.
-- Stripe documentation is used as a concrete provider example. Payment rails, state models, idempotency retention, event delivery, and recovery contracts vary by provider.
+- [Consolidated FATF Recommendations](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html) are amended June 2026. Local arrangements implement this international baseline; it is not one identical law for every fintech.
+- [PCI DSS](https://www.pcisecuritystandards.org/standards/pci-dss/) v4.0.1 is the checked baseline. The [limited revision](https://blog.pcisecuritystandards.org/just-published-pci-dss-v4-0-1) did not move March 31, 2025 for applicable future-dated requirements. Scope and validation depend on the actual environment.
+- [European Commission payment-services materials](https://finance.ec.europa.eu/consumer-finance-and-payments/payment-services/payment-services_en) provide official PSD2 and reform links. Verify PSD3/PSR legal status and application dates separately from political agreement. The guide does not assign an unverified universal transition date.
+- [EU DORA, described by ESMA](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora), has applied since January 17, 2025 to entities within its scope. It is distinct from DORA delivery research.
+- Stripe supplies provider-specific examples of [authorization/capture](https://docs.stripe.com/payments/place-a-hold-on-a-payment-method), [uncertain errors](https://docs.stripe.com/error-low-level), [events](https://docs.stripe.com/webhooks), and [reconciliation](https://docs.stripe.com/reports/balance). Other providers and rails differ; do not generalize one API's idempotency, state model, timing, or delivery contract globally.
 
 ## Cybersecurity
 
-Use [NIST CSF](https://www.nist.gov/cyberframework), [FIRST CVSS](https://www.first.org/cvss/), [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), and [MITRE ATT&CK](https://attack.mitre.org/) for their different purposes. They do not individually establish organizational compliance, risk acceptance, or detection effectiveness.
-
-Security findings need asset and business context. Notification and remediation deadlines depend on the actual legal, contractual, and organizational requirements; the guide deliberately avoids assigning one universal deadline.
+| Resource | Checked status or purpose | Boundary |
+| --- | --- | --- |
+| [NIST CSF](https://www.nist.gov/cyberframework) | CSF 2.0 outcomes | Framework alignment and deployment do not alone establish effectiveness or compliance |
+| [NIST SSDF publication index](https://csrc.nist.gov/Projects/ssdf/publications) | SSDF 1.1 final; 1.2 draft in the checked index | Record the selected baseline; distinguish final and draft |
+| [OWASP ASVS](https://asvs.owasp.org/) | Stable 5.0.0 in checked release information | Content and requirement identifiers are version-sensitive |
+| [NIST SP 800-61 Rev. 3](https://csrc.nist.gov/pubs/sp/800/61/r3/final) | Final April 2025; supersedes Rev. 2 | Response integrates with risk management and preparation |
+| [CVSS 4.0](https://www.first.org/cvss/v4.0/specification-document) | Base, Threat, Environmental, Supplemental groups | Base severity is not complete organizational risk |
+| [EPSS](https://www.first.org/epss/) | CVE exploitation probability over the next 30 days | Not an organization's breach probability |
+| [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), [official mirror](https://github.com/cisagov/kev-data) | Known exploitation evidence | Absence is not safety; government-directive deadlines have a stated audience |
+| [NIST SP 800-63B-4](https://pages.nist.gov/800-63-4/sp800-63b.html) | Authentication, recovery, phishing resistance | MFA methods differ; normative requirements have a stated scope |
+| [MITRE ATT&CK](https://attack.mitre.org/) | Evolving adversary-behavior knowledge base | A technique mapping is not proof of detection |
 
 ## Maintenance
 
-When updating an answer, check the primary source, preserve a concise local explanation, and record a review date for version-sensitive or regulatory changes. Keep applicability and role authority explicit. Update question counts and navigation if the catalog changes.
+Review material changes against a primary source, preserve local reasoning, and update the answer's date. Recheck versions, scope, legal status, and timing for a real project. Record access limits rather than converting them into unsupported claims of currency.

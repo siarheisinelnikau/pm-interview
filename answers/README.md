@@ -2,9 +2,9 @@
 
 [Back to all questions](../README.md)
 
-Every question has its own English answer with practical reasoning and references. Level labels are selection aids: Junior covers fundamentals, Middle covers independent delivery decisions, and Senior covers uncertainty, cross-team trade-offs, and accountable escalation.
+Every question has its own English answer with explanations, worked examples or decision scenarios, meaningful limitations, and primary-source references. Level labels are selection aids: Junior covers fundamentals, Middle covers independent delivery decisions, and Senior covers uncertainty, cross-team trade-offs, and accountable escalation.
 
-There are **100 answers** across **17 sections**. Source and applicability notes are dated **2026-10-30**. The examples show possible approaches rather than mandatory scripts or claims of certification coverage.
+There are **100 answers** across **17 sections**, all reviewed and expanded on **2026-10-30**. See the [review and source audit](../docs/source-audit.md) and [source notes](../docs/source-notes.md). Examples show possible approaches rather than mandatory scripts or claims of certification coverage.
 
 | Topic | Answers | Track |
 | --- | ---: | --- |
@@ -26,6 +26,6 @@ There are **100 answers** across **17 sections**. Source and applicability notes
 | [Delivery Management - Adjacent](../README.md#delivery-management---adjacent) | 4 | Adjacent |
 | [Presales and Solutions - Adjacent](../README.md#presales-and-solutions---adjacent) | 4 | Adjacent |
 
-For illustrated explanations, see [critical path](planning-and-estimation/critical-path.md), [scope change control](scope-and-requirements/change-control.md), and [release readiness](quality-and-release/release-readiness.md).
+The [visual guide](../docs/visual-guide.md) collects **32 original SVG images**, including seven charts. Start with [critical path](planning-and-estimation/critical-path.md), [probabilistic forecasting](planning-and-estimation/forecasting-under-uncertainty.md), [EVM](budget-and-commercials/earned-value.md), [clinical evaluation](healthcare/clinical-validation.md), [financial reconciliation](fintech/financial-correctness.md), or [vulnerability prioritization](cybersecurity/vulnerability-prioritization.md).
 
 Use the [interview guide](../docs/interview-guide.md) to select a realistic interview or study session and the [templates](../templates/README.md) to practice with concrete artifacts.

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">Cumulative flow: a growing band makes waiting visible</title><desc id="desc">A stacked area chart of done, review, development and not-started items totals twenty each day. Review accumulation warrants investigation.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Cumulative flow: a growing band makes waiting visible</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Illustrative fixed scope of 20 items; the review band grows over time.</text>
+<polygon points="118.0,428.0 239.25,428.0 360.5,428.0 481.75,428.0 603.0,428.0 724.25,428.0 845.5,428.0 966.75,428.0 1088.0,428.0 1088.0,284.0 966.75,308.0 845.5,320.0 724.25,344.0 603.0,356.0 481.75,380.0 360.5,392.0 239.25,416.0 118.0,428.0" fill="#79c6b5"/>
+<polygon points="118.0,428.0 239.25,416.0 360.5,392.0 481.75,380.0 603.0,356.0 724.25,344.0 845.5,320.0 966.75,308.0 1088.0,284.0 1088.0,212.0 966.75,224.0 845.5,248.0 724.25,272.0 603.0,296.0 481.75,332.0 360.5,356.0 239.25,392.0 118.0,416.0" fill="#f3c983"/>
+<polygon points="118.0,416.0 239.25,392.0 360.5,356.0 481.75,332.0 603.0,296.0 724.25,272.0 845.5,248.0 966.75,224.0 1088.0,212.0 1088.0,188.0 966.75,200.0 845.5,212.0 724.25,224.0 603.0,248.0 481.75,284.0 360.5,308.0 239.25,356.0 118.0,392.0" fill="#9dbaf5"/>
+<polygon points="118.0,392.0 239.25,356.0 360.5,308.0 481.75,284.0 603.0,248.0 724.25,224.0 845.5,212.0 966.75,200.0 1088.0,188.0 1088.0,188.0 966.75,188.0 845.5,188.0 724.25,188.0 603.0,188.0 481.75,188.0 360.5,188.0 239.25,188.0 118.0,188.0" fill="#e8edf3"/>
+<polyline points="118,428.0 1088,428.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="104" y="417.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">0</text>
+<polyline points="118,368.0 1088,368.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="104" y="357.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">5</text>
+<polyline points="118,308.0 1088,308.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="104" y="297.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">10</text>
+<polyline points="118,248.0 1088,248.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="104" y="237.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">15</text>
+<polyline points="118,188.0 1088,188.0" fill="none" stroke="#dce5ee" stroke-width="1"/>
+<text x="104" y="177.0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="end" dominant-baseline="text-before-edge">20</text>
+<polyline points="118,188 118,428 1088,428" fill="none" stroke="#526579" stroke-width="2"/>
+<text x="118.0" y="438" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">Day 0</text>
+<text x="603.0" y="438" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">Day 4</text>
+<text x="1088.0" y="438" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="middle" dominant-baseline="text-before-edge">Day 8</text>
+<rect x="120" y="151" width="16" height="16" rx="0" fill="#79c6b5"/>
+<text x="145" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Done</text>
+<rect x="375" y="151" width="16" height="16" rx="0" fill="#f3c983"/>
+<text x="400" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Review</text>
+<rect x="630" y="151" width="16" height="16" rx="0" fill="#9dbaf5"/>
+<text x="655" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Development</text>
+<rect x="885" y="151" width="16" height="16" rx="0" fill="#e8edf3"/>
+<text x="910" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Not started</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Inspect aged and blocked review items. A wider band is evidence of accumulation, not proof of a</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">particular root cause.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>

@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "critical-path",
+    "title": "Critical path: improve the path that drives the finish",
+    "answer": "planning-and-estimation/critical-path",
+    "alt": "Integration 0\u20135, verification 5\u20138, approval 8\u201310 form a ten-day critical path. UI 0\u20136 has four days of float.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "forecast-distribution",
+    "title": "A forecast is a distribution, conditional on assumptions",
+    "answer": "planning-and-estimation/forecasting-under-uncertainty",
+    "alt": "Illustrative completion distribution: median 5 weeks, 85th percentile 6 weeks. This is a model, not a commitment.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "capacity",
+    "title": "Capacity: nominal availability is only the starting point",
+    "answer": "planning-and-estimation/capacity-resource-planning",
+    "alt": "Forty person-days minus four leave, six support and four coordination leaves twenty-six planned person-days, subject to skills and dependencies.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "earned-value",
+    "title": "Earned value: compare planned work, accepted work, and cost",
+    "answer": "budget-and-commercials/earned-value",
+    "alt": "PV 100, EV 80, AC 90. CPI equals 0.89; SPI equals 0.80. Schedule variance is work value, not days.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "burnup-burndown",
+    "title": "A burnup separates scope arrival from completed work",
+    "answer": "metrics-and-improvement/burndown-burnup",
+    "alt": "Two charts show remaining work versus scope and completion. At day four remaining work rises because scope increases, despite continued completion.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "cumulative-flow",
+    "title": "Cumulative flow: a growing band makes waiting visible",
+    "answer": "delivery-adjacent/multi-team-flow",
+    "alt": "A stacked area chart of done, review, development and not-started items totals twenty each day. Review accumulation warrants investigation.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "error-budget",
+    "title": "Error budget: define the denominator before doing the math",
+    "answer": "metrics-and-improvement/sli-slo-sla",
+    "alt": "The budget is one thousand failed requests. Seven hundred failures consume seventy percent, leaving three hundred. This is not an outage-minute calculation.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "delivery-system",
+    "title": "Project delivery connects decisions to outcomes",
+    "answer": "foundations/project-success",
+    "alt": "Project delivery connects decisions to outcomes. Healthcare, Fintech, and Cybersecurity change the evidence and consequences at every step. Product, Delivery, and Presales contribute at their boundaries.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "scope-change",
+    "title": "Scope change is a decision with visible consequences",
+    "answer": "scope-and-requirements/change-control",
+    "alt": "Scope change is a decision with visible consequences. An adaptive backlog supports learning. It does not silently change a contract, funding boundary, or essential control.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "scrum-goals",
+    "title": "Scrum: artifacts make goals, plans, and quality inspectable",
+    "answer": "agile-and-flow/backlogs-and-goals",
+    "alt": "Scrum: artifacts make goals, plans, and quality inspectable. Developers adapt the Sprint plan with the Product Owner as they learn. Selected items are a forecast; quality is not an optional leftover.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "flow-time",
+    "title": "Lead time, cycle time, and age use explicit boundaries",
+    "answer": "agile-and-flow/flow-metrics",
+    "alt": "Lead time, cycle time, and age use explicit boundaries. Use consistent calendar or working-time clocks. These numbers describe an illustrative example, not a forecast for every item.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "risk-response",
+    "title": "A risk record should lead to action and a decision",
+    "answer": "risk-and-issues/risk-register",
+    "alt": "A risk record should lead to action and a decision. Completing a mitigation task does not prove the risk disappeared. A realized threat can become an issue requiring resolution.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "status-decision",
+    "title": "A status update should make the next decision easier",
+    "answer": "stakeholders-and-communication/status-reporting",
+    "alt": "A status update should make the next decision easier. Illustrative: certification threatens launch by one week; sponsor chooses smaller initial scope or a revised date by Friday.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "star",
+    "title": "A behavioral answer connects your action to evidence",
+    "answer": "leadership-and-behavioral/failure-star",
+    "alt": "A behavioral answer connects your action to evidence. Spend most of the answer on your reasoning and actions. A polished story without a clear responsibility provides weak evidence.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "migration",
+    "title": "Migration readiness includes a credible recovery path",
+    "answer": "technical-literacy/data-migration",
+    "alt": "Migration readiness includes a credible recovery path. Reverting code is not enough if the new system has accepted writes. Assess data compatibility, RTO, RPO, and forward recovery.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "release-readiness",
+    "title": "Release approval applies to an explicit boundary",
+    "answer": "quality-and-release/release-readiness",
+    "alt": "Release approval applies to an explicit boundary. Stopping further rollout does not undo data already changed. Reassess readiness after material changes or failed guardrails.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "dora-metrics",
+    "title": "DORA research measures delivery at a service boundary",
+    "answer": "metrics-and-improvement/dora-metrics",
+    "alt": "DORA research measures delivery at a service boundary. Five metrics in the checked guide. Pair them with user outcomes and service reliability. This research is distinct from EU DORA regulation.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "health-data",
+    "title": "Patient data can leave through secondary paths",
+    "answer": "healthcare/patient-data-and-privacy",
+    "alt": "Patient data can leave through secondary paths. HIPAA scope, GDPR processing conditions, and other applicable duties require separate assessment. Removing names alone is not a de-identification method.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "fhir-layers",
+    "title": "FHIR integration: transport success is one layer of evidence",
+    "answer": "healthcare/ehr-fhir-integration",
+    "alt": "FHIR integration: transport success is one layer of evidence. A successful response can still carry the wrong unit or patient mapping. FHIR does not itself implement the complete security or consent process.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "clinical-evaluation",
+    "title": "Clinical evaluation asks three different evidence questions",
+    "answer": "healthcare/clinical-validation",
+    "alt": "Clinical evaluation asks three different evidence questions. Workflow safety also depends on identity, handoffs, people, downtime, and response. UAT alone does not establish all clinical evidence.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "payment-lifecycle",
+    "title": "A card payment has several distinct states",
+    "answer": "fintech/payment-lifecycle",
+    "alt": "A card payment has several distinct states. Refunds, reversals, disputes, and fees add separate events. Checkout success, authorization, settlement, and payout are not interchangeable.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "payment-timeout",
+    "title": "Timeout means the result is unknown to the caller",
+    "answer": "fintech/provider-outage-case",
+    "alt": "Timeout means the result is unknown to the caller. Blind failover to another provider can duplicate a successful payment. Providers do not share one universal idempotency boundary.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "reconciliation",
+    "title": "Reconciliation compares independent records",
+    "answer": "fintech/financial-correctness",
+    "alt": "Reconciliation compares independent records. Example: 100 gross minus 3 fee gives 97 net. A mismatch needs an owner and controlled resolution; replaying every record can move money twice.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "pci-boundary",
+    "title": "Draw payment-data scope before making compliance claims",
+    "answer": "fintech/pci-scope",
+    "alt": "Draw payment-data scope before making compliance claims. Outsourcing does not automatically remove merchant obligations. Include secondary tools and systems that can affect the payment environment.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "security-evidence",
+    "title": "Secure delivery is an evidence chain",
+    "answer": "cybersecurity/secure-sdlc",
+    "alt": "Secure delivery is an evidence chain. SSDF addresses development practices; ASVS supports verifiable application requirements. A final penetration test is one bounded assessment.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "incident-coordination",
+    "title": "Incident coordination needs parallel owners",
+    "answer": "cybersecurity/cyber-incident-coordination",
+    "alt": "Incident coordination needs parallel owners. The PM supports coordination within the incident structure. Availability recovery does not automatically resolve data impact or investigation.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "iam-rollout",
+    "title": "IAM rollout: protection, usability, and recovery travel together",
+    "answer": "cybersecurity/iam-rollout",
+    "alt": "IAM rollout: protection, usability, and recovery travel together. MFA enabled in one portal does not prove every access path is protected. OTP and out-of-band methods are not automatically phishing-resistant.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "soc-detection",
+    "title": "SOC capability is a tested detection-to-response chain",
+    "answer": "cybersecurity/soc-siem-delivery",
+    "alt": "SOC capability is a tested detection-to-response chain. An ATT&CK mapping is not proof of detection. Test missing telemetry, noisy alerts, unavailable analysts, and the actual response path.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "presales-handover",
+    "title": "Presales evidence should survive the handover",
+    "answer": "presales-adjacent/sales-to-delivery-handover",
+    "alt": "Presales evidence should survive the handover. A polished demo does not prove production readiness. Resolve differences between the signed agreement and the assumptions used for the estimate.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "role-boundaries",
+    "title": "Role boundaries follow decisions, not titles",
+    "answer": "foundations/role-boundaries",
+    "alt": "Role boundaries follow decisions, not titles. One person may hold several responsibilities. Preserve clear authority for each decision, including Scrum accountabilities where applicable.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "vulnerability-priority",
+    "title": "Severity is one input to vulnerability prioritization",
+    "answer": "cybersecurity/vulnerability-prioritization",
+    "alt": "Severity is one input to vulnerability prioritization. CVSS describes severity; EPSS predicts CVE exploitation; KEV records known exploitation. None alone gives organizational risk.",
+    "width": 1200,
+    "height": 660
+  },
+  {
+    "slug": "rice-example",
+    "title": "RICE makes prioritization assumptions visible",
+    "answer": "product-adjacent/rice-and-priority",
+    "alt": "RICE makes prioritization assumptions visible. A tied score does not make the options equivalent. Essential controls and applicable obligations require explicit treatment.",
+    "width": 1200,
+    "height": 660
+  }
+]

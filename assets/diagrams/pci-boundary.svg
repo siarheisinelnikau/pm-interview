@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">Draw payment-data scope before making compliance claims</title><desc id="desc">Draw payment-data scope before making compliance claims. Outsourcing does not automatically remove merchant obligations. Include secondary tools and systems that can affect the payment environment.</desc>
+<rect width="1200" height="660" fill="#f8fafc"/>
+<rect x="32" y="24" width="1136" height="612" rx="18" fill="#ffffff" stroke="#dce5ee"/>
+<text x="64" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Draw payment-data scope before making compliance claims</text>
+<text x="64" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Hosted components and tokens can reduce exposure; assessment determines scope.</text>
+<rect x="64.0" y="175" width="340.0" height="255" rx="12" fill="#eaf1ff"/>
+<text x="82.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Customer entry</text>
+<text x="82.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Where raw card data enters and</text>
+<text x="82.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">is transmitted</text>
+<polyline points="408.0,300 426.0,300" fill="none" stroke="#526579" stroke-width="3"/>
+<polygon points="426.0,300 415.1946347717679,305.21958640933474 415.1946347717679,294.78041359066526" fill="#526579"/>
+<rect x="430.0" y="175" width="340.0" height="255" rx="12" fill="#e5f5f1"/>
+<text x="448.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Provider service</text>
+<text x="448.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Assessed responsibilities and</text>
+<text x="448.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">integration conditions</text>
+<polyline points="774.0,300 792.0,300" fill="none" stroke="#526579" stroke-width="3"/>
+<polygon points="792.0,300 781.1946347717678,305.21958640933474 781.1946347717678,294.78041359066526" fill="#526579"/>
+<rect x="796.0" y="175" width="340.0" height="255" rx="12" fill="#fff2dc"/>
+<text x="814.0" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Merchant paths</text>
+<text x="814.0" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Application, scripts, logs,</text>
+<text x="814.0" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">analytics, support, and access</text>
+<rect x="64" y="476" width="1072" height="98" rx="10" fill="#eef4f8"/>
+<text x="84" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">Outsourcing does not automatically remove merchant obligations. Include secondary tools and systems</text>
+<text x="84" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#16324f" text-anchor="start" dominant-baseline="text-before-edge">that can affect the payment environment.</text>
+<text x="64" y="599" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#526579" text-anchor="start" dominant-baseline="text-before-edge">Original teaching figure. Scenarios and numbers are illustrative.</text>
+</svg>
