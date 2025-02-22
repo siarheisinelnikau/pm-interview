@@ -23,6 +23,12 @@ A quality owner may verify requirements while an operational owner still rejects
 
 Agree entry criteria before asking users to test: a stable build, safe data, scenarios, access, and a process for findings. Record acceptance against the relevant version and scope. A later material change may invalidate earlier evidence.
 
+## Handle contested acceptance
+
+If the client refuses sign-off, compare the disputed behavior with the agreed scope, criteria, evidence, and version. Separate a defect, an ambiguous requirement, a readiness gap, and newly requested scope. Establish the acceptance authority and relevant contractual process with the commercial owner.
+
+Propose a factual resolution: repair and retest, clarify the agreed interpretation, accept with documented qualifications where appropriate, or assess a change. Record the decision and its effect on release, payment, and remaining obligations. A demonstration or a ticket marked done does not independently settle contractual acceptance.
+
 ## References
 
 - [GovS 002 v2.1: sections 8.2, 8.6–8.9: quality, validation and transition](https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/)

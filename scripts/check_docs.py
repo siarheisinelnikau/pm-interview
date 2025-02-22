@@ -71,8 +71,10 @@ def main():
     answer_files = sorted((ROOT/'answers').glob('*/*.md'))
     expected = {p.relative_to(ROOT).as_posix() for p in answer_files}
     listed = [q[2] for q in questions]
-    if len(questions) != 100 or len(answer_files) != 100 or len(set(listed)) != 100:
-        fail('Catalog must contain 100 unique questions and answer files')
+    if not questions:
+        fail('Catalog contains no questions')
+    if len(set(listed)) != len(listed):
+        fail('Catalog contains duplicate answer links')
     if set(listed) != expected:
         fail('Catalog contains missing or orphaned answer paths')
     words = []
@@ -95,8 +97,8 @@ def main():
 
     manifest = json.loads((ROOT/'assets/diagrams/manifest.json').read_text(encoding='utf-8'))
     svg_files = sorted((ROOT/'assets/diagrams').glob('*.svg'))
-    if len(manifest) != 32 or len(svg_files) != 32:
-        fail('Expected 32 SVG figures and manifest entries')
+    if len({f['slug'] for f in manifest}) != len(manifest):
+        fail('Figure manifest contains duplicate slugs')
     if {f['slug']+'.svg' for f in manifest} != {p.name for p in svg_files}:
         fail('SVG catalog and manifest differ')
     for figure in manifest:
@@ -119,8 +121,8 @@ def main():
     report = {'answers':len(answer_files),'primary_reference_urls':len(sources),
               'markdown_files':len(files),'local_links_checked':local_links,
               'image_links_checked':image_links,'svg_figures':len(svg_files),
-              'answer_words':{'min':min(words),'max':max(words),
-                              'mean':round(sum(words)/len(words))},'errors':ERRORS}
+              'answer_words':{'min':min(words,default=0),'max':max(words,default=0),
+                              'mean':round(sum(words)/len(words)) if words else 0},'errors':ERRORS}
     print(json.dumps(report,indent=2))
     return bool(ERRORS)
 

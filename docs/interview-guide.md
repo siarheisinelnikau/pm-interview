@@ -12,6 +12,19 @@ The main track is **Project Manager**. Start with the core sections, add the rel
 
 A label indicates the main depth of the question, not a rigid hiring threshold.
 
+## Select topics for the work
+
+| Work in the role | Questions to include |
+| --- | --- |
+| Investment and organizational change | [Stopping a project](../answers/foundations/stopping-a-project.md), [build/buy/reuse](../answers/budget-and-commercials/build-buy-reuse.md), [adoption](../answers/foundations/adoption-and-organizational-change.md) |
+| Team coordination | [Distributed work](../answers/leadership-and-behavioral/distributed-teams.md), [competing capacity](../answers/planning-and-estimation/capacity-resource-planning.md), [working information](../answers/technical-literacy/project-board-and-documentation.md) |
+| Service transition and operation | [Continuity and recovery](../answers/quality-and-release/business-continuity-and-disaster-recovery.md), [acceptance](../answers/quality-and-release/uat-and-acceptance.md), [handover](../answers/quality-and-release/handover-and-hypercare.md) |
+| Healthcare administration and patient access | [Claims workflows](../answers/healthcare/claims-and-revenue-cycle.md), [representative access](../answers/healthcare/consent-and-proxy-access.md), clinical workflow and data questions |
+| Financial services | Payment questions for payment roles; [lending](../answers/fintech/lending-origination-and-servicing.md), [fraud/disputes](../answers/fintech/fraud-controls-and-disputes.md), and [open banking](../answers/fintech/open-banking-integrations.md) where relevant |
+| Security delivery | [Assurance](../answers/cybersecurity/security-assurance-and-audits.md), [supplier risk](../answers/cybersecurity/third-party-and-supply-chain-risk.md), [cloud responsibilities](../answers/cybersecurity/cloud-shared-responsibility.md), and applicable control/response questions |
+
+Use the vacancy and project context to choose depth. Product, Delivery, and Presales questions cover interfaces with PM work; specialist roles require further role-specific preparation.
+
 ## A 60-minute interview
 
 | Time | Focus | Suggested selection |

@@ -18,6 +18,12 @@ Add failure behavior: what users see after a timeout, how access is checked, and
 
 Choose verification evidence with specialists and budget for it. Accessibility also needs an agreed scope and standard, such as applicable WCAG 2.2 criteria, plus user testing where useful; a passing automated scan is incomplete evidence.
 
+## Include accessibility in usable acceptance
+
+Define relevant user needs and applicable accessibility criteria early. Ask representative users to complete the important journey, including errors and recovery, with relevant assistive technologies and interaction methods. A form may pass automated checks while its validation messages remain difficult to find or understand.
+
+Budget for design, specialist assessment where needed, remediation, and retesting. Record known limitations and their effect on the intended population; a scanner result alone does not establish that the service is usable or meets every applicable obligation.
+
 ## References
 
 - [Google SRE: Service Level Objectives](https://sre.google/sre-book/service-level-objectives/)

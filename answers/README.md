@@ -1,31 +1,27 @@
 # Interview answers
 
-[Back to all questions](../README.md)
+[All questions](../README.md)
 
-Every question has its own English answer with explanations, worked examples or decision scenarios, meaningful limitations, and primary-source references. Level labels are selection aids: Junior covers fundamentals, Middle covers independent delivery decisions, and Senior covers uncertainty, cross-team trade-offs, and accountable escalation.
+Choose a topic to see its questions and open an answer. Level labels indicate the expected depth: fundamentals for Junior, independent delivery decisions for Middle, and complex trade-offs for Senior.
 
-There are **100 answers** across **17 sections**, all reviewed and expanded on **2026-10-30**. See the [review and source audit](../docs/source-audit.md) and [source notes](../docs/source-notes.md). Examples show possible approaches rather than mandatory scripts or claims of certification coverage.
+| Topic | Track |
+| --- | --- |
+| [Project Management Foundations](../README.md#project-management-foundations) | Core PM |
+| [Planning and Estimation](../README.md#planning-and-estimation) | Core PM |
+| [Scope and Requirements](../README.md#scope-and-requirements) | Core PM |
+| [Agile, Scrum, and Kanban](../README.md#agile-scrum-and-kanban) | Core PM |
+| [Risk and Issue Management](../README.md#risk-and-issue-management) | Core PM |
+| [Budget and Commercial Management](../README.md#budget-and-commercial-management) | Core PM |
+| [Stakeholders and Communication](../README.md#stakeholders-and-communication) | Core PM |
+| [Leadership and Behavioral Questions](../README.md#leadership-and-behavioral-questions) | Core PM |
+| [Technical Literacy for PMs](../README.md#technical-literacy-for-pms) | Core PM |
+| [Quality, Release, and Operations](../README.md#quality-release-and-operations) | Core PM |
+| [Metrics and Continuous Improvement](../README.md#metrics-and-continuous-improvement) | Core PM |
+| [Healthcare Domain](../README.md#healthcare-domain) | Domain |
+| [Fintech Domain](../README.md#fintech-domain) | Domain |
+| [Cybersecurity Domain](../README.md#cybersecurity-domain) | Domain |
+| [Product Management - Adjacent](../README.md#product-management---adjacent) | Adjacent |
+| [Delivery Management - Adjacent](../README.md#delivery-management---adjacent) | Adjacent |
+| [Presales and Solutions - Adjacent](../README.md#presales-and-solutions---adjacent) | Adjacent |
 
-| Topic | Answers | Track |
-| --- | ---: | --- |
-| [Project Management Foundations](../README.md#project-management-foundations) | 8 | Core PM |
-| [Planning and Estimation](../README.md#planning-and-estimation) | 8 | Core PM |
-| [Scope and Requirements](../README.md#scope-and-requirements) | 6 | Core PM |
-| [Agile, Scrum, and Kanban](../README.md#agile-scrum-and-kanban) | 8 | Core PM |
-| [Risk and Issue Management](../README.md#risk-and-issue-management) | 6 | Core PM |
-| [Budget and Commercial Management](../README.md#budget-and-commercial-management) | 5 | Core PM |
-| [Stakeholders and Communication](../README.md#stakeholders-and-communication) | 6 | Core PM |
-| [Leadership and Behavioral Questions](../README.md#leadership-and-behavioral-questions) | 5 | Core PM |
-| [Technical Literacy for PMs](../README.md#technical-literacy-for-pms) | 6 | Core PM |
-| [Quality, Release, and Operations](../README.md#quality-release-and-operations) | 6 | Core PM |
-| [Metrics and Continuous Improvement](../README.md#metrics-and-continuous-improvement) | 6 | Core PM |
-| [Healthcare Domain](../README.md#healthcare-domain) | 6 | Domain |
-| [Fintech Domain](../README.md#fintech-domain) | 6 | Domain |
-| [Cybersecurity Domain](../README.md#cybersecurity-domain) | 6 | Domain |
-| [Product Management - Adjacent](../README.md#product-management---adjacent) | 4 | Adjacent |
-| [Delivery Management - Adjacent](../README.md#delivery-management---adjacent) | 4 | Adjacent |
-| [Presales and Solutions - Adjacent](../README.md#presales-and-solutions---adjacent) | 4 | Adjacent |
-
-The [visual guide](../docs/visual-guide.md) collects **32 original SVG images**, including seven charts. Start with [critical path](planning-and-estimation/critical-path.md), [probabilistic forecasting](planning-and-estimation/forecasting-under-uncertainty.md), [EVM](budget-and-commercials/earned-value.md), [clinical evaluation](healthcare/clinical-validation.md), [financial reconciliation](fintech/financial-correctness.md), or [vulnerability prioritization](cybersecurity/vulnerability-prioritization.md).
-
-Use the [interview guide](../docs/interview-guide.md) to select a realistic interview or study session and the [templates](../templates/README.md) to practice with concrete artifacts.
+[Preparation guide](../docs/interview-guide.md) · [Diagrams and worked charts](../docs/visual-guide.md) · [Templates](../templates/README.md)

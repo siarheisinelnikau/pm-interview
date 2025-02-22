@@ -2,6 +2,8 @@
 
 Keep the guide focused on **Project Manager** interviews. Add domain depth where it changes decisions; keep Product, Delivery, and Presales coverage concise.
 
+Select questions by distinct decisions and learning needs. Use existing answers for closely related examples; add a question when it teaches a missing competency. There is no target question count or equal-size requirement for sections. Keep the main README focused on the guide's scope and navigation; review history and asset-generation details belong in supporting documentation.
+
 Each question belongs in the main README with a `j`, `m`, or `s` label and links to one answer under `answers/<topic>/`. Use English to match the companion Android guide.
 
 An answer should contain a direct explanation, practical reasoning or an illustrative example, meaningful limitations, a link back to its topic, and primary-source references. Explain enough locally that the answer remains useful without opening every reference. Preserve the distinction between standard-defined requirements and suggested project practice.

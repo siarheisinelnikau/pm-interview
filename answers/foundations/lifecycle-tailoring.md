@@ -18,7 +18,15 @@ Ask how quickly the team can obtain meaningful feedback, what changes are expens
 
 Explain the chosen approach operationally: which work is planned in detail now, what remains a forecast, when scope can change, and who approves a new funding boundary. “We use Agile” does not answer these questions.
 
+## Choose a team workflow within that approach
+
+Scrum can fit complex product work where a team can pursue a coherent Sprint Goal and inspect a usable Increment. Kanban can help manage a continuous arrival of work through explicit policies and WIP controls. They can be combined: Scrum does not remove queues, and Kanban does not prevent scheduled planning or reviews.
+
+For a team mixing product changes and urgent support, investigate demand and capacity before choosing a label. Agree how urgent work is handled and how the goal or service expectation remains credible. No framework choice removes external approvals, client responsibilities, or the need for a realistic forecast.
+
 ## References
 
 - [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
+- [Scrum Guide: goals, accountabilities, and inspection](https://scrumguides.org/scrum-guide.html)
+- [Kanban Guide: workflow and WIP policies](https://kanbanguides.org/the-kanban-guide/2025.5/)
 - [GovS 002 v2.1: sections 3.3, 4 and 6.4: context, governance and life cycle](https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/)

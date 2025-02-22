@@ -2,7 +2,7 @@
 
 [Back to questions](../README.md) · [Review and source audit](source-audit.md) · [Visual guide](visual-guide.md)
 
-**Content and source review: 2026-10-30.** All 100 answers were reviewed against their concepts and supporting sources. The audit records improvements and cases where direct access required an official alternative.
+References for the standards, frameworks, and jurisdiction-specific examples used in the guide. Version-sensitive answers record their review dates.
 
 Examples, numbers, decision tables, and figures are original illustrative applications, not quotations from a standard or industry benchmarks. A framework's requirements apply within its scope; a suggested project practice is not automatically a legal obligation.
 

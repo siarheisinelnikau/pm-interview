@@ -1,36 +1,32 @@
-## Questions for Interview
+# Project Manager Interview
 
-**Position - Project Manager (j - junior, m - middle, s - senior).**
+Interview questions and answers for software Project Managers, from junior to senior.
 
-A structured interview guide in the same format as [android-interview](https://github.com/siarheisinelnikau/android-interview): English questions, level labels, and a self-contained answer for every question.
+Topics include planning, scope, budgets, risk, stakeholders, team leadership, and software delivery, with domain sections for Healthcare, Fintech, and Cybersecurity. Product Management, Delivery Management, and Presales cover related responsibilities.
 
-**100 questions and answers:** 70 core Project Management questions, 18 domain questions, and 12 concise questions on adjacent responsibilities. Select Healthcare, Fintech, and Cybersecurity sections according to the role; Product, Delivery, and Presales extend the core PM track.
+**Levels:** j — junior, m — middle, s — senior.
 
-All **100 answers were reviewed and expanded on 2026-10-30**. They include explanations, worked examples or decision scenarios, limitations, and primary-source references. The 18 domain answers discuss applicability, evidence, operational consequences, and accountable owners in more depth. See the [review and source audit](docs/source-audit.md) for changes and access limitations, and [source notes](docs/source-notes.md) for version and jurisdiction boundaries.
-
-**32 original SVG illustrations**, including seven worked charts, are embedded as ordinary images in the answers and collected in the [visual guide](docs/visual-guide.md). Every chart identifies its illustrative data and assumptions. Start with the [interview guide](docs/interview-guide.md), [answer index](answers/README.md), [glossary](docs/glossary.md), or [working templates](templates/README.md).
-
-![Project delivery connects user outcomes, planning and flow, validation and release, and operational learning.](assets/diagrams/delivery-system.svg)
+[Preparation guide](docs/interview-guide.md) · [Answers by topic](answers/README.md) · [Glossary](docs/glossary.md) · [Templates](templates/README.md)
 
 ### Topics
 
-- [Project Management Foundations](#project-management-foundations) (8)
-- [Planning and Estimation](#planning-and-estimation) (8)
-- [Scope and Requirements](#scope-and-requirements) (6)
-- [Agile, Scrum, and Kanban](#agile-scrum-and-kanban) (8)
-- [Risk and Issue Management](#risk-and-issue-management) (6)
-- [Budget and Commercial Management](#budget-and-commercial-management) (5)
-- [Stakeholders and Communication](#stakeholders-and-communication) (6)
-- [Leadership and Behavioral Questions](#leadership-and-behavioral-questions) (5)
-- [Technical Literacy for PMs](#technical-literacy-for-pms) (6)
-- [Quality, Release, and Operations](#quality-release-and-operations) (6)
-- [Metrics and Continuous Improvement](#metrics-and-continuous-improvement) (6)
-- [Healthcare Domain](#healthcare-domain) (6)
-- [Fintech Domain](#fintech-domain) (6)
-- [Cybersecurity Domain](#cybersecurity-domain) (6)
-- [Product Management - Adjacent](#product-management---adjacent) (4)
-- [Delivery Management - Adjacent](#delivery-management---adjacent) (4)
-- [Presales and Solutions - Adjacent](#presales-and-solutions---adjacent) (4)
+- [Project Management Foundations](#project-management-foundations)
+- [Planning and Estimation](#planning-and-estimation)
+- [Scope and Requirements](#scope-and-requirements)
+- [Agile, Scrum, and Kanban](#agile-scrum-and-kanban)
+- [Risk and Issue Management](#risk-and-issue-management)
+- [Budget and Commercial Management](#budget-and-commercial-management)
+- [Stakeholders and Communication](#stakeholders-and-communication)
+- [Leadership and Behavioral Questions](#leadership-and-behavioral-questions)
+- [Technical Literacy for PMs](#technical-literacy-for-pms)
+- [Quality, Release, and Operations](#quality-release-and-operations)
+- [Metrics and Continuous Improvement](#metrics-and-continuous-improvement)
+- [Healthcare Domain](#healthcare-domain)
+- [Fintech Domain](#fintech-domain)
+- [Cybersecurity Domain](#cybersecurity-domain)
+- [Product Management - Adjacent](#product-management---adjacent)
+- [Delivery Management - Adjacent](#delivery-management---adjacent)
+- [Presales and Solutions - Adjacent](#presales-and-solutions---adjacent)
 
 ---
 
@@ -44,6 +40,8 @@ All **100 answers were reviewed and expanded on 2026-10-30**. They include expla
 - **m** [How would you choose a predictive, adaptive, or hybrid delivery approach?](answers/foundations/lifecycle-tailoring.md)
 - **m** [How do you establish governance without creating excessive bureaucracy?](answers/foundations/governance-decisions.md)
 - **m** [How do you close a project and make sure its benefits survive handover?](answers/foundations/project-closure.md)
+- **s** [When should a project be stopped, and how do you close it responsibly?](answers/foundations/stopping-a-project.md)
+- **m** [How do you plan adoption and respond to resistance to a new system or process?](answers/foundations/adoption-and-organizational-change.md)
 
 ### Planning and Estimation
 
@@ -92,6 +90,7 @@ All **100 answers were reviewed and expanded on 2026-10-30**. They include expla
 - **m** [How do fixed-price, time-and-materials, and outcome-based arrangements affect project management?](answers/budget-and-commercials/contract-models.md)
 - **m** [Why should a PM understand margin and utilization without optimizing them blindly?](answers/budget-and-commercials/margin-and-utilization.md)
 - **m** [How would you select and manage a supplier beyond comparing hourly rates?](answers/budget-and-commercials/vendor-management.md)
+- **m** [How would you compare building, buying, and reusing a solution?](answers/budget-and-commercials/build-buy-reuse.md)
 
 ### Stakeholders and Communication
 
@@ -109,6 +108,8 @@ All **100 answers were reviewed and expanded on 2026-10-30**. They include expla
 - **m** [How do you handle conflict and protect sustainable delivery?](answers/leadership-and-behavioral/conflict-and-team-health.md)
 - **m** [How should you answer a behavioral question about a project failure?](answers/leadership-and-behavioral/failure-star.md)
 - **s** [What would you do in your first 30 days on an inherited project?](answers/leadership-and-behavioral/first-30-days.md)
+- **m** [How do you coordinate a distributed team across time zones and organizational boundaries?](answers/leadership-and-behavioral/distributed-teams.md)
+- **s** [What would you do if a sponsor asked you to hide a delay or omit a material risk?](answers/leadership-and-behavioral/pressure-and-ethics.md)
 
 ### Technical Literacy for PMs
 
@@ -118,6 +119,7 @@ All **100 answers were reviewed and expanded on 2026-10-30**. They include expla
 - **m** [How would you prioritize technical debt against new functionality?](answers/technical-literacy/technical-debt.md)
 - **s** [How would you plan a data migration and decide whether cutover is safe?](answers/technical-literacy/data-migration.md)
 - **m** [What security and privacy questions belong in a PM's delivery plan?](answers/technical-literacy/security-and-data-questions.md)
+- **j** [How would you organize Jira, Confluence, or equivalent tools so project information stays usable?](answers/technical-literacy/project-board-and-documentation.md)
 
 ### Quality, Release, and Operations
 
@@ -127,6 +129,7 @@ All **100 answers were reviewed and expanded on 2026-10-30**. They include expla
 - **m** [What evidence do you need for a go/no-go release decision?](answers/quality-and-release/release-readiness.md)
 - **s** [How would you design a staged rollout and recover from a bad release?](answers/quality-and-release/rollout-and-recovery.md)
 - **m** [What belongs in operational handover and a time-bounded hypercare period?](answers/quality-and-release/handover-and-hypercare.md)
+- **s** [How do you plan and verify business continuity and disaster recovery?](answers/quality-and-release/business-continuity-and-disaster-recovery.md)
 
 ### Metrics and Continuous Improvement
 
@@ -145,6 +148,8 @@ All **100 answers were reviewed and expanded on 2026-10-30**. They include expla
 - **s** [How do you plan clinical workflow validation separately from ordinary UAT?](answers/healthcare/clinical-validation.md)
 - **m** [When might healthcare software require a medical-device assessment?](answers/healthcare/medical-device-boundary.md)
 - **s** [A hospital wants to launch despite unresolved patient-matching errors. What do you do?](answers/healthcare/healthcare-launch-case.md)
+- **m** [What should a PM understand about eligibility, prior authorization, claims, and remittance workflows?](answers/healthcare/claims-and-revenue-cycle.md)
+- **m** [How do consent, representative access, and sensitive-record restrictions affect a patient-facing project?](answers/healthcare/consent-and-proxy-access.md)
 
 ### Fintech Domain
 
@@ -154,6 +159,9 @@ All **100 answers were reviewed and expanded on 2026-10-30**. They include expla
 - **m** [How should PCI DSS scope influence a payment project?](answers/fintech/pci-scope.md)
 - **m** [How would you handle PSD2/SCA and EU DORA requirements without assuming every fintech has the same obligations?](answers/fintech/regulatory-applicability.md)
 - **s** [A payment provider times out after a customer confirms payment. How do you coordinate the response?](answers/fintech/provider-outage-case.md)
+- **m** [How would you deliver fraud controls and dispute handling without measuring success only by blocked transactions?](answers/fintech/fraud-controls-and-disputes.md)
+- **m** [How does a lending project differ from a payment integration project?](answers/fintech/lending-origination-and-servicing.md)
+- **m** [What additional planning does an open-banking integration need beyond connecting an API?](answers/fintech/open-banking-integrations.md)
 
 ### Cybersecurity Domain
 
@@ -163,6 +171,9 @@ All **100 answers were reviewed and expanded on 2026-10-30**. They include expla
 - **s** [What is the PM's role during a suspected security incident?](answers/cybersecurity/cyber-incident-coordination.md)
 - **m** [How would you plan an IAM or MFA rollout without locking out critical users?](answers/cybersecurity/iam-rollout.md)
 - **s** [What makes a SIEM or SOC improvement project successful beyond connecting log sources?](answers/cybersecurity/soc-siem-delivery.md)
+- **m** [How would you plan ISO 27001 certification or SOC 2 assurance work, and how do the outcomes differ?](answers/cybersecurity/security-assurance-and-audits.md)
+- **s** [How do you manage cybersecurity risk from suppliers, subcontractors, and software dependencies?](answers/cybersecurity/third-party-and-supply-chain-risk.md)
+- **m** [How does shared responsibility affect a cloud migration or managed-service project?](answers/cybersecurity/cloud-shared-responsibility.md)
 
 ### Product Management - Adjacent
 
@@ -187,4 +198,4 @@ All **100 answers were reviewed and expanded on 2026-10-30**. They include expla
 
 ---
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for answer conventions and review expectations. Licensed under [Apache 2.0](LICENSE).
+[Contributing](CONTRIBUTING.md) · [Apache 2.0 license](LICENSE)

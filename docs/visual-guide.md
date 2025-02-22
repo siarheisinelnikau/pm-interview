@@ -2,9 +2,9 @@
 
 [All questions](../README.md) · [Answer index](../answers/README.md) · [Source notes](source-notes.md)
 
-**32 original SVG images** are embedded directly in answers. They use local paths and do not depend on Mermaid support. Text alternatives explain their main point; linked answers provide reasoning and sources.
+Diagrams and worked charts for planning, delivery, and domain scenarios. Open the corresponding answer for the explanation and references.
 
-Seven numeric charts use illustrative inputs. The forecast is a seeded simulation, not a live project prediction or industry benchmark. See [generation notes](../assets/diagrams/README.md).
+Numbers in the worked examples are illustrative. The forecast chart shows a simulation under stated assumptions.
 
 ## Find an illustration
 

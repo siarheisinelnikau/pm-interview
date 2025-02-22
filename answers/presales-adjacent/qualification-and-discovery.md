@@ -18,6 +18,10 @@ A qualified opportunity should have a plausible problem, decision path, delivery
 
 Keep commercial negotiation with its owner. The PM's contribution is a credible delivery basis: assumptions, capacity, dependencies, risk, and the conditions under which a forecast remains valid.
 
+## Support a bid or no-bid decision
+
+Identify requirements the organization cannot credibly meet, unrealistic client-input dates, unacceptable exposure, and evidence still needed. Compare an alternative offer, paid discovery, a qualified proposal, or declining the opportunity. The commercial decision maker owns the decision; the PM supplies the delivery consequences. A deadline for submitting a proposal is not evidence that its implementation estimate is ready to become a commitment.
+
 ## References
 
 - [GOV.UK Service Manual: discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works)

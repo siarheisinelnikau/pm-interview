@@ -20,6 +20,12 @@ Next check skills and sequence. Twenty-six general person-days cannot replace a 
 
 Review actual interruptions against the assumption. If support repeatedly consumes more capacity, negotiate priority, staffing, service improvements, or scope. Preserve slack for variability; a plan that requires perfect availability is fragile even when its arithmetic adds up.
 
+## Resolve competing project demands
+
+If two initiatives require the same specialist in the same window, show their dependency paths, consequences, and alternatives to the person who can prioritize across both. Compare sequencing, reduced scope, qualified support, or changed dates. An allocation decision should appear in both plans; two separate promises cannot create a second specialist.
+
+Inspect whether the apparent conflict is active work, review waiting, or a scarce approval. A reserved review window or better-prepared input may solve a different problem from adding headcount. Reforecast after the decision and make displaced work visible.
+
 ## References
 
 - [GovS 002 v2.1: section 7.2: planning and estimating](https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/)

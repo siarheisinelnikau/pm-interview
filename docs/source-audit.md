@@ -2,7 +2,7 @@
 
 [All questions](../README.md) · [Source notes](source-notes.md) · [Visual guide](visual-guide.md)
 
-**Review date: 2026-10-30.** Reviewed all **100 answers**, the **38 distinct original answer-reference URLs**, and additional primary sources used in this revision. Revised answers reference **63 distinct primary-source URLs**.
+**Review snapshot: 2026-10-30, commit `ccfc217`.** This historical record covers the 100 answers and 63 reference URLs present at that commit, including the 38 original reference URLs. Later additions carry their own references and review dates.
 
 ## Method and scope
 
